@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.bestwangbo.com/"/>
   <updated>2018-07-09T03:36:10.402Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.bestwangbo.com/</id>
   
   <author>
     <name>wangbo</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>JavaWeb阶段总结</title>
-    <link href="http://yoursite.com/2018/07/09/javaweb/"/>
-    <id>http://yoursite.com/2018/07/09/javaweb/</id>
+    <link href="http://www.bestwangbo.com/2018/07/09/javaweb/"/>
+    <id>http://www.bestwangbo.com/2018/07/09/javaweb/</id>
     <published>2018-07-09T02:43:40.000Z</published>
     <updated>2018-07-09T03:36:10.402Z</updated>
     
@@ -35,10 +35,10 @@
     
     </summary>
     
-      <category term="JavaWeb" scheme="http://yoursite.com/categories/JavaWeb/"/>
+      <category term="JavaWeb" scheme="http://www.bestwangbo.com/categories/JavaWeb/"/>
     
     
-      <category term="JavaWeb" scheme="http://yoursite.com/tags/JavaWeb/"/>
+      <category term="JavaWeb" scheme="http://www.bestwangbo.com/tags/JavaWeb/"/>
     
   </entry>
   
