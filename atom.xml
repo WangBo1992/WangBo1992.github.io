@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.bestwangbo.com/"/>
-  <updated>2018-07-09T12:04:01.560Z</updated>
+  <updated>2018-07-10T01:13:03.172Z</updated>
   <id>http://www.bestwangbo.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Redis简介</title>
+    <link href="http://www.bestwangbo.com/Redis%E7%AE%80%E4%BB%8B.html"/>
+    <id>http://www.bestwangbo.com/Redis简介.html</id>
+    <published>2017-08-09T06:43:40.000Z</published>
+    <updated>2018-07-10T01:13:03.172Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Redis简介&quot;&gt;&lt;a href=&quot;#Redis简介&quot; class=&quot;headerlink&quot; title=&quot;Redis简介&quot;&gt;&lt;/a&gt;Redis简介&lt;/h1&gt;&lt;p&gt;百度百科:&lt;a href=&quot;https://baike.baidu.com/item/Redis/6549233?fr=aladdin&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://baike.baidu.com/item/Redis/6549233?fr=aladdin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;介绍Redis之前，先了解下NoSQL （Not noly SQL）不仅仅是SQL&lt;/p&gt;
+&lt;p&gt;属于非关系型数据库；Redis就属于非关系型数据库&lt;/p&gt;
+&lt;p&gt;传统的Mysql ,oracle ,sql server 等 都是关系型数据库&lt;/p&gt;
+&lt;p&gt;为什么需要NoSQL，主要应对以下问题，传统关系型数据库力不从心&lt;/p&gt;
+&lt;p&gt;High performance -高并发读写&lt;/p&gt;
+&lt;p&gt;Huge Storage-海量数据的高效率存储和访问&lt;/p&gt;
+&lt;p&gt;High Scalablility &amp;amp;&amp;amp; High Availability 高可扩展性和高可用性&lt;/p&gt;
+&lt;p&gt;NoSQL 产品 MongoDB Redis等等  Redis目前主流&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Redis" scheme="http://www.bestwangbo.com/categories/Redis/"/>
+    
+    
+      <category term="Redis" scheme="http://www.bestwangbo.com/tags/Redis/"/>
+    
+  </entry>
   
   <entry>
     <title>JavaWeb阶段总结</title>
