@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.bestwangbo.com/"/>
-  <updated>2018-07-10T01:13:03.172Z</updated>
+  <updated>2018-07-10T01:39:49.412Z</updated>
   <id>http://www.bestwangbo.com/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SpringBoot简介</title>
+    <link href="http://www.bestwangbo.com/SpringBoot%E7%AE%80%E4%BB%8B.html"/>
+    <id>http://www.bestwangbo.com/SpringBoot简介.html</id>
+    <published>2017-12-09T02:43:40.000Z</published>
+    <updated>2018-07-10T01:39:49.412Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="Spring家族" scheme="http://www.bestwangbo.com/categories/Spring%E5%AE%B6%E6%97%8F/"/>
+    
+    
+      <category term="Spring家族" scheme="http://www.bestwangbo.com/tags/Spring%E5%AE%B6%E6%97%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>elasticsearch简介</title>
+    <link href="http://www.bestwangbo.com/elasticsearch%E7%AE%80%E4%BB%8B.html"/>
+    <id>http://www.bestwangbo.com/elasticsearch简介.html</id>
+    <published>2017-09-09T02:43:40.000Z</published>
+    <updated>2018-07-10T01:36:01.302Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="es" scheme="http://www.bestwangbo.com/categories/es/"/>
+    
+    
+      <category term="es" scheme="http://www.bestwangbo.com/tags/es/"/>
+    
+  </entry>
   
   <entry>
     <title>Redis简介</title>

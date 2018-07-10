@@ -4,6 +4,46 @@
 
     
   <url>
+    <loc>http://www.bestwangbo.com/SpringBoot%E7%AE%80%E4%BB%8B.html</loc>
+    <lastmod>2018-07-10T01:39:49.412Z</lastmod>
+    <data>
+        <display>
+        <title>SpringBoot简介</title>
+        <pubTime>2017-12-09T02:43:40.000Z</pubTime>
+        
+        <tag>Spring家族</tag>
+         
+         
+           
+             
+              <breadCrumb title="Spring家族" url="http://www.bestwangbo.com/categories/Spring%E5%AE%B6%E6%97%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://www.bestwangbo.com/elasticsearch%E7%AE%80%E4%BB%8B.html</loc>
+    <lastmod>2018-07-10T01:36:01.302Z</lastmod>
+    <data>
+        <display>
+        <title>elasticsearch简介</title>
+        <pubTime>2017-09-09T02:43:40.000Z</pubTime>
+        
+        <tag>es</tag>
+         
+         
+           
+             
+              <breadCrumb title="es" url="http://www.bestwangbo.com/categories/es/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.bestwangbo.com/Redis%E7%AE%80%E4%BB%8B.html</loc>
     <lastmod>2018-07-10T01:13:03.172Z</lastmod>
     <data>
