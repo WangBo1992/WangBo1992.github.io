@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.bestwangbo.com/"/>
-  <updated>2018-07-10T01:39:49.412Z</updated>
+  <updated>2018-07-10T01:48:05.297Z</updated>
   <id>http://www.bestwangbo.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://www.bestwangbo.com/SpringBoot%E7%AE%80%E4%BB%8B.html"/>
     <id>http://www.bestwangbo.com/SpringBoot简介.html</id>
     <published>2017-12-09T02:43:40.000Z</published>
-    <updated>2018-07-10T01:39:49.412Z</updated>
+    <updated>2018-07-10T01:48:05.297Z</updated>
     
     <summary type="html">
     
@@ -93,6 +93,32 @@
     
     
       <category term="Redis" scheme="http://www.bestwangbo.com/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>S2SH整合demo</title>
+    <link href="http://www.bestwangbo.com/S2SH%E6%95%B4%E5%90%88.html"/>
+    <id>http://www.bestwangbo.com/S2SH整合.html</id>
+    <published>2016-12-09T02:43:40.000Z</published>
+    <updated>2018-07-10T01:50:26.625Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+      <category term="Spring家族" scheme="http://www.bestwangbo.com/categories/Spring%E5%AE%B6%E6%97%8F/"/>
+    
+    
+      <category term="Spring家族" scheme="http://www.bestwangbo.com/tags/Spring%E5%AE%B6%E6%97%8F/"/>
     
   </entry>
   
